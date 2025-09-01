@@ -1,8 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ATAI – Career Growth Platform 🚀
 
 Empowering students to build careers smarter with AI, market insights, and ATS-ready tools.
+
+![Cover Image](https://github.com/Abhishek-singh-007/ChitChatz/blob/main/images/Screenshot%202025-07-06%20193123.png)
 
 🌍 Problem We Solve
 
