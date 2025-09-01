@@ -4,6 +4,9 @@ Empowering students to build careers smarter with AI, market insights, and ATS-r
 
 ![Cover Image](https://github.com/Abhishek-singh-007/ATAI---Build-your-Future-with-AI/blob/main/public/banner2.jpeg)
 
+---Created By Abhishek Singh [Connect Me](https://my-portfolio-six-tau-59.vercel.app/) <br/>
+Visit the website: [Join]( https://chitchatz-he8g.onrender.com/login)
+
 🌍 Problem We Solve
 
 Students often juggle multiple platforms to explore job-market demand, prepare for competitive exams, take mock tests, and build professional resumes. This leads to fragmented learning, poor insights, and wasted effort.
@@ -45,6 +48,7 @@ Other: Markdown editor, Chart visualizations
 
 
 🚀 Getting Started
+```bash
 # Clone the repository
 git clone https://github.com/your-username/atai.git  
 
@@ -58,6 +62,7 @@ GEMINI_API_KEY=your_gemini_key
 
 # Run the development server
 npm run dev
+```
 
 
 📈 Impact
