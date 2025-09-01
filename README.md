@@ -27,7 +27,7 @@ ATAI unifies everything in one platform — from real-time market demand data to
 
 ⚡ Scalable Backend – Built with Next.js + Node.js/Express, REST APIs, and Neon (PostgreSQL) for reliability.
 
-🚀 150+ Active Users – Already trusted by students to accelerate their career prep.
+🚀 50+ Active Users – Already trusted by students to accelerate their career prep.
 
 🛠️ Tech Stack
 
