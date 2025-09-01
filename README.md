@@ -42,9 +42,7 @@ Deployment: Vercel, Inngest
 
 Other: Markdown editor, Chart visualizations
 
-📸 [Images](https://github.com/Abhishek-singh-007/ATAI---Build-your-Future-with-AI/blob/main/public/banner2.jpeg)
 
-Add key screenshots of dashboard, market insights, quiz reports, and resume builder.
 
 🚀 Getting Started
 # Clone the repository
@@ -61,6 +59,7 @@ GEMINI_API_KEY=your_gemini_key
 # Run the development server
 npm run dev
 
+
 📈 Impact
 
 ✅ Solves a real student problem: fragmented career prep.
@@ -74,6 +73,4 @@ npm run dev
 Abhishek Singh
 BTech IT | Full-stack Developer | AI Enthusiast
 
-🔗 LinkedIn
- | Portfolio
- | GitHubdocs/app/building-your-application/deploying) for more details.
+
