@@ -42,7 +42,7 @@ Deployment: Vercel, Inngest
 
 Other: Markdown editor, Chart visualizations
 
-📸 
+📸 [Images](https://github.com/Abhishek-singh-007/ATAI---Build-your-Future-with-AI/blob/main/public/banner2.jpeg)
 
 Add key screenshots of dashboard, market insights, quiz reports, and resume builder.
 
