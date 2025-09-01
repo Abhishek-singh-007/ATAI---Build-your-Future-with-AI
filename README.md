@@ -5,7 +5,7 @@ Empowering students to build careers smarter with AI, market insights, and ATS-r
 ![Cover Image](https://github.com/Abhishek-singh-007/ATAI---Build-your-Future-with-AI/blob/main/public/banner2.jpeg)
 
 ---Created By Abhishek Singh [Connect Me](https://my-portfolio-six-tau-59.vercel.app/) <br/>
-Visit the website: [Join]( https://chitchatz-he8g.onrender.com/login)
+Visit the website: [Join](https://atai-build-your-future-with-ai.vercel.app/)
 
 🌍 Problem We Solve
 
